@@ -27,10 +27,6 @@ To view the Figma design and prototypes:
 1. Visit the [Figma link](https://www.figma.com/design/nHgIGtsZpx4fTYboxF8n2c/music-player?node-id=0-1&t=UE39gIE84W1qLsS9-1).
 2. Explore the interactive prototypes by clicking through the elements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or feedback, please contact [Indranil Samanta](mailto:youremail@example.com).
+For any questions or feedback, please contact [Indranil Samanta](indranilsamanta2003@gmail.com).
