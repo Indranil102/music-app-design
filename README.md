@@ -12,8 +12,14 @@ This repository contains the design of a mobile music app created using Figma. T
 
 ## Screenshots
 
-![Music Banner](assets/banners/banner1.png)
-![Lyrics Dropdown](assets/prototypes/lyrics_dropdown.png)
+![Home Screen](![iPhone 14   15 Pro Max - 5](https://github.com/user-attachments/assets/0b89a784-041b-4e28-af5b-be6b0f3c404a)
+
+![First Page]![iPhone 14   15 Pro Max - 3](https://github.com/user-attachments/assets/77719121-5567-4c6e-bc8b-0776c5eedaf6)
+
+![Lyrics Dropdown]![iPhone 14   15 Pro Max - 4](https://github.com/user-attachments/assets/d87f074e-c961-4082-8d98-24ee7003bdd7)
+()
+![Final page](![iPhone 14   15 Pro Max - 1](https://github.com/user-attachments/assets/c8f29976-52da-41ed-8131-5371948ee834)
+)
 
 ## How to View the Design
 
